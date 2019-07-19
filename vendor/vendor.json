@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "vBrfLitiNwODQpaCE5i2D+5TsiY=",
+			"path": "github.com/simplereach/timeutils",
+			"revision": "1a719258b86a08630289b86902ab16817ba641e9",
+			"revisionTime": "2017-04-24T13:57:26Z"
+		},
+		{
+			"checksumSHA1": "/xRHTpN8WOK4nmZjJ1f96ER1b/o=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "XQsrqoNT1U0KzLxOFcAZVvqhLfk=",
+			"path": "gopkg.in/mgo.v2/internal/json",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"path": "http://github.com/simplereach/timeutils",
+			"revision": ""
+		}
+	],
+	"rootPath": "ottepg"
+}
